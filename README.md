@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Finally pursuing my dreams and learning about cloud security! The journey has been fun so far and I love to discover new technologies surrounding the cloud.
+Finally pursuing my dreams and learning about Cloud Engineering and DevOps! The journey has been fun so far and I love to discover new technologies surrounding the cloud.
 
 Find out more about me & feel free to connect with me here:
 
